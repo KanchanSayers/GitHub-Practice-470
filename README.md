@@ -32,3 +32,4 @@ Assignment (10 pts):
 | Rachel Liu    |  rachelizz  | https://github.com/rachelizz/repo-demo   |
 | Qinyue Li | qinyueli| <https://qinyueli.github.io/stat470/>|
 | Michael Cherry | MCherry4896 | <https://mcherry4896.github.io/repo_example/> |
+| Kanchan Sayers | KanchanSayers | <https://github.com/KanchanSayers/Repository-Demo> |
